@@ -1,4 +1,4 @@
-"/repos/{owner}/{repo}/hooks": {
+"/repos/{owner}/WebHook/postook": {
     "x-ms-notification-content": {
     "description": "Details for Webhook",
     "schema": {
